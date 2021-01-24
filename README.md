@@ -1,8 +1,7 @@
 # Fast-NordVPN-Checker
 
-
 ## About
-Nord VPN Checker
+This is only for educational purposes only. This tool is used to demonstrate penetration testing. 
 
 ## Picture
 ![Picture1](https://i.ibb.co/Cv0bCnv/Screenshot-97.png)
