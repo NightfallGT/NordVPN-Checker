@@ -7,6 +7,9 @@ This tool should only be used for educational purposes only. This tool is used t
 
 ## Picture
 ![Picture1](https://i.ibb.co/Cv0bCnv/Screenshot-97.png)
+
+With threading (500 threads) 
+
 ![Picture1](https://i.ibb.co/WtySJkP/Screenshot-34.png)
 
 ## Installation
