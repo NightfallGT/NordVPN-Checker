@@ -1,5 +1,6 @@
 # NordVPN-Checker
 - Fastest Checker
+- 7000+ cpm (checks per minute)
 
 ## About
 This tool should only be used for educational purposes only. This tool is used to demonstrate penetration testing on how certain attackers can bruteforce certain websites such as NordVPN to check the validity of accounts. Please do not use this for illegal activity and only use it as a reference.
