@@ -249,7 +249,6 @@ def main():
 
     print('[!] Task completed.')
 
-    print(check)
     os.system('pause>nul')
 
 if __name__ =='__main__':
