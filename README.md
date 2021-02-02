@@ -1,5 +1,4 @@
 # NordVPN-Checker
-- Fastest Checker
 - 7000+ cpm (checks per minute)
 
 ## About
