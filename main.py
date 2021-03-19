@@ -202,7 +202,7 @@ def worker(n, combos, thread_id):
 def main():
     global check
     os.system('cls')
-    os.system('title Fast Nord VPN Checker ^| Nightfall#2512')
+    os.system('title Fast Nord VPN Checker ^| NightfallGT')
     
     n = NordVPN()
     n.title()
